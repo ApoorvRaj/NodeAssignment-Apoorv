@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('https://www.pixelstalk.net/wp-content/uploads/images1/Rock-Band-Backgrounds-HD.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+border:5px;
+
+}
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card-header h1{
+    color: blueviolet;
+    align-content: center;
+    }
+
+.card-header h4{
+    color: yellow;
+    }
+th{
+    color: yellow;
+}
+td{
+    color: white;
+}
+hr {
+  height: 1px;
+  color: #123455;
+  background-color: #123455;
+  border: none;
+}
+button{
+width: 80px;
+color: yellow !important;
+}
+
+button:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+
+tr {
+      border-bottom: 1px solid #f2f2f2;
+      padding-bottom: 18px;
+      padding-top: 30px;
+      padding-right: 15px;
+      margin: 0;
+    }
+    
+tr {
+      border: none;
+      padding-left: 30px;
+      padding-top: 16px;
+      padding-bottom: 16px;
+    }
+
+tr {      
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.2;
+    font-weight: unset !important;  
+}
+  
+table{
+  width: 50% !important;
+}
+  
